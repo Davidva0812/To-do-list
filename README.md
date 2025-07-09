@@ -30,14 +30,14 @@ npm install
 npm start
 ```
 
-##Technologies Used
+## Technologies Used
 
 - React
 - Bootstrap 5
 - JSX
 - CSS
 
-##Future Improvements
+## Future Improvements
 
 - ✅ Mark tasks as complete
 - 🔄 Edit task names
@@ -45,5 +45,5 @@ npm start
 - 🌙 Dark/light theme toggle
 - 📁 Local storage or backend integration
 
-##License
+## License
    This project is open source and available under the MIT License.
