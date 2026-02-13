@@ -1,4 +1,4 @@
-# 📝 React To-Do List
+# 📝 JavaScript To-Do List
 
 A simple and clean To-Do list app built with **React** and **Bootstrap**.
 
